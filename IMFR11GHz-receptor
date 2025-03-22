@@ -219,7 +219,7 @@ void loop() {
   volt = ads.getVoltage_mV(); // get result in millivolts
   ads.getVoltage_muV(); // get result in microvolts
   unsigned long tiempo = millis();
-  //Serial.print(tiempo);Serial.print(",");
-  Serial.println(volt, 6);// por el diodo que entrega valores negativos
+  //Serial.print(tiempo);Serial.print(",");// descomentarsi desea incluir el tiempoen el archivo de datos 
+  Serial.println(volt, 6);
   delay(2);
 }
