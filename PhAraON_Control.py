@@ -1,3 +1,7 @@
+'''
+Programa creado por Javier Sanchez Gonzalez jsanchezg@unal.edu.co
+Para el interferometro de tres elementos PhAraON-OAN, su funcion es ubicar las antenas en las coordenadas deseadas 
+'''
 import serial
 import time    # para el manejo de eventos de tiempo, nativa de Python
 
