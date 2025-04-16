@@ -1,2 +1,2 @@
 # RRIS-OAN
-Codigos para los interferometros del OAN
+Codigos para los Interferometros del OAN
