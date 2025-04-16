@@ -1,6 +1,6 @@
 '''
 Programa creado por Javier Sanchez Gonzalez jsanchezg@unal.edu.co
-Para el interferometro de tres elementos PhAraON-OAN para seguir objetos fuera del sistema solar 
+Para el interferometro de tres elementos PhAraON-OAN su funcion es seguir objetos fuera del sistema solar 
 '''
 from astropy.coordinates import AltAz, EarthLocation, SkyCoord
 from astropy.time import Time
